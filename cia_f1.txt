@@ -1,3 +1,8 @@
 Inicio 1
-linea2
-linea3
+linea3 borro la línea anterior 2
+linea 4 especial para blame
+linea 5
+linea 6
+linea 7
+linea 9
+linea 10 5 a 10 añadidas al mismo tiempo
